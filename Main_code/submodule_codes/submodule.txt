@@ -1,1 +1,1 @@
-
+This folder consist of all the submodules in the main code. All the submodules are combined to make the final main.cpp code.
